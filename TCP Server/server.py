@@ -1,16 +1,3 @@
-# STUDENT NAME: Abhishek Dan 816024372, Tamika Brittney Ramkissoon 816010368
-# COMP2602: Computer Networks (Semester I- 2021/2022)
-# 27th September 2021
-# Connetion type use: TCP
-# Members contribution: Both members utilized the discord platform for collaboration while learning to python languages and as well the basics of socket programming through lecture notes and additional research. Real time coding collaboration was done on replit.com. Both members contributed to the development and pseudocode algorithm of each command on the server.py and client.py files.
-# Abhishek Dan 816024372 contribution to the server.py file: LIST, SHOW, DELETE, WORDCOUNT
-# Abhishek Dan 816024372 contribution to the python.py file:
-# PUT, CREATE, SEARCH, EXIT and commands validation(errors statements)
-# Tamika Ramkissoon 816010368 contributions to the server.py file: PUT, CREATE, SEARCH, EXIT and commands validation(errors statements)
-# Tamika Ramkissoon 816010368 contributions to the python.py
-# LIST, SHOW, DELETE, WORDCOUNT
-# Both Abhishek Dan and Tamika Ramkission made contributions to the documentation
-
 import socket
 import os
 
